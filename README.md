@@ -10,3 +10,9 @@ Note:
   Dataset IIa: https://bnci-horizon-2020.eu/database/data-sets
 
 This code is only part of the paper: "Optimize temporal configuration for motor imagery-based multiclass performance and its relationship with subject-specific frequency" (doi.org/10.1016/j.imu.2022.101141)
+
+### eeg_filter.m
+- Is the function used to filter noise in the preprocessing step in the script 'mainanalysis_dataset1.m'.
+
+### Result folder
+- Là kết quả mẫu khi chạy scipt 'mainanalysis_dataset1.m'.
