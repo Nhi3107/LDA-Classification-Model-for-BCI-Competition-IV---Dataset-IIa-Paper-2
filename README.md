@@ -18,7 +18,7 @@
 ### eeg_filter.m
 - Is the function used to filter noise in the preprocessing step in the script 'mainanalysis_dataset1.m'.
 
-### Result folder
+### Example_result folder
 - Is a sample result when running scipt 'mainanalysis_dataset1.m'.
 
 Note: 
