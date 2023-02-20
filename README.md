@@ -3,7 +3,7 @@
 - BCI Competition IV—Dataset IIa was put into Matlab and proceeded to be input to the model.
 - Performed preprocessing steps by filtering out high-frequency, low-frequency noise and powerline interference.
 - The feature used in the model is filter banks, add more temporal information or features to a single trial.
-- To run the model, we used 10-fold cross validation with one-vs-all methods. Two steps (feature selection and classification) were combined in the classification functions.
+- To run the model, we used 10-fold cross validation with one-vs-all method. Two steps (feature selection and classification) were combined in the classification functions.
 
  #### How to run
 4.	Toggling/Untoggling in Pre-processing: Let’s jump to %%PREPROCESSING, which has 4 subsections (%%1-s segment, %%1-second overlapping 0.5-second, %%2-second overlapping 1-second, %%Whole segment). Each of these subsections corresponds to each time segment type mentioned in the study. There are 2 steps to toggle/untoggle (comment/uncomment) the case:
