@@ -13,14 +13,16 @@
 5.	Toggling/Untoggling in Feature Extracting: Let’s jump to %%FEATURE EXTRACTION, which has 5 subsections (%%CSP, %%FBCSP, %%DFBCSP Fisher, %%DFBCSP mRmR, %%DFBCSP FmRmR). Each of these subsections corresponds to each feature extraction method mentioned in the study. Likewise, uncomment the intended subsection and comment other subsections. Please note: If the feature extraction method used is CSP, comment the Case 01 and uncomment Case 02 (in %%PREPROCESSING), and vice versa.
 
 
-Note: 
-  
-  Dataset IIa: https://bnci-horizon-2020.eu/database/data-sets
 
-This code is only part of the paper: "Optimize temporal configuration for motor imagery-based multiclass performance and its relationship with subject-specific frequency" (doi.org/10.1016/j.imu.2022.101141)
 
 ### eeg_filter.m
 - Is the function used to filter noise in the preprocessing step in the script 'mainanalysis_dataset1.m'.
 
 ### Result folder
 - Is a sample result when running scipt 'mainanalysis_dataset1.m'.
+
+Note: 
+  
+  Dataset IIa: https://bnci-horizon-2020.eu/database/data-sets
+
+This code is only part of the paper: "Optimize temporal configuration for motor imagery-based multiclass performance and its relationship with subject-specific frequency" (doi.org/10.1016/j.imu.2022.101141)
