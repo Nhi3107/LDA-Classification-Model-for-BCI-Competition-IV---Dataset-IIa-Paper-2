@@ -1,1 +1,1 @@
-# LDA-Classification-Model-for-BCI-Competition-IV---Dataset-IIb
+## LDA Classification Model for BCI Competition IV - Dataset IIb.
