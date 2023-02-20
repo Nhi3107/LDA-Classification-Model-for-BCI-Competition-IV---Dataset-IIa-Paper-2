@@ -7,8 +7,8 @@
 
  #### How to run
 4.	Toggling/Untoggling in Pre-processing: Let’s jump to %%PREPROCESSING, which has 4 subsections (%%1-s segment, %%1-second overlapping 0.5-second, %%2-second overlapping 1-second, %%Whole segment). Each of these subsections corresponds to each time segment type mentioned in the study. There are 2 steps to toggle/untoggle (comment/uncomment) the case:
- -	First toggling: comment/uncomment (CTRL + R or CTRL + T) all lines in a specific subsection to select/unselect the case.
- -	Second toggling: If the feature extraction method used is CSP, comment the Case 01 and uncomment Case 02, and vice versa.
+--	First toggling: comment/uncomment (CTRL + R or CTRL + T) all lines in a specific subsection to select/unselect the case.
+--	Second toggling: If the feature extraction method used is CSP, comment the Case 01 and uncomment Case 02, and vice versa.
 
 5.	Toggling/Untoggling in Feature Extracting: Let’s jump to %%FEATURE EXTRACTION, which has 5 subsections (%%CSP, %%FBCSP, %%DFBCSP Fisher, %%DFBCSP mRmR, %%DFBCSP FmRmR). Each of these subsections corresponds to each feature extraction method mentioned in the study. Likewise, uncomment the intended subsection and comment other subsections. Please note: If the feature extraction method used is CSP, comment the Case 01 and uncomment Case 02 (in %%PREPROCESSING), and vice versa.
 
