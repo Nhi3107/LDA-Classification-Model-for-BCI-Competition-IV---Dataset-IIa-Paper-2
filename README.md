@@ -1,5 +1,5 @@
 ## LDA Classification Model for BCI Competition IV - Dataset IIa.
-### Main_Analyses.m
+### mainanalysis_dataset1.m
 - BCI Competition IV—Dataset IIa was put into Matlab and proceeded to be input to the model.
 - Performed preprocessing steps by filtering out high-frequency, low-frequency noise and powerline interference.
 - The feature used in the model is filter banks, add more temporal information or features to a single trial.
